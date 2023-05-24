@@ -13,3 +13,5 @@ Here is **高文凯**.
 ## Research Interests
 
 我的研究方向主要是极端气候对黄河流域经济发展的影响
+ 
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
